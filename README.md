@@ -16,11 +16,11 @@ Each solution is written in Python (migrating to C++ for advanced topics) and co
 
 ### Solved & Documented Problems
 
-| # | Platform | Problem ID | Title | Key Topic / Concept |
-|---|----------|------------|-------|---------------------|
-| 1 | Codeforces | [4A](https://codeforces.com/problemset/problem/4/A) | Watermelon | Parity, Edge Case ($w=2$) |
-| 2 | Codeforces | [231A](https://codeforces.com/problemset/problem/231/A) | Team | Counting, Array Aggregation |
-| 3 | Codeforces | [486A](https://codeforces.com/problemset/problem/486/A) | Calculating Function | Arithmetic Invariants, $O(1)$ Closed Form |
+| # | Platform | Problem ID | Title | Key Topic / Concept | Time Complexity |
+|---|----------|------------|-------|---------------------|-----------------|
+| 1 | Codeforces | [4A](https://codeforces.com/problemset/problem/4/A) | Watermelon | Parity, Edge Case ($w=2$) | $O(1)$ |
+| 2 | Codeforces | [231A](https://codeforces.com/problemset/problem/231/A) | Team | Counting, Array Aggregation | $O(n)$ |
+| 3 | Codeforces | [486A](https://codeforces.com/problemset/problem/486/A) | Calculating Function | Parity, Arithmetic Invariants | $O(1)$ |
 
 ---
 
