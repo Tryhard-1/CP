@@ -22,6 +22,7 @@ Each solution is written in Python (migrating to C++ for advanced topics) and co
 | 2 | Codeforces | [231A](https://codeforces.com/problemset/problem/231/A) | Team | Counting, Array Aggregation | $O(n)$ |
 | 3 | Codeforces | [486A](https://codeforces.com/problemset/problem/486/A) | Calculating Function | Parity, Arithmetic Invariants | $O(1)$ |
 | 4 | Codeforces | [266A](https://codeforces.com/problemset/problem/266/A) | Stones on the Table | Strings, Adjacent Element Comparison | $O(n)$ |
+| 5 | Codeforces | [2277B](https://codeforces.com/contest/2277/problem/B) | Sequence Decreasing | Invariants, Greedy, Subarrays | $O(n)$ |
 
 
 ---
