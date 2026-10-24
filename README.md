@@ -4,7 +4,8 @@
 A collection of selected competitive programming solutions, edge case breakdowns, and complexity analyses. Rather than archiving every trivial submission, this repository focuses on problems that required deeper reasoning, non-obvious mathematical invariants, or algorithmic optimizations.
 
 ### Profiles
-- **Codeforces:** [Tryhard-1](https://codeforces.com/profile/Tryhard-1)
+- **Codeforces:** [_tryhard__](https://codeforces.com/profile/_tryhard__)
+
 
 ---
 
