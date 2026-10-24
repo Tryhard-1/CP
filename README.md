@@ -25,9 +25,3 @@ Each solution is written in Python (migrating to C++ for advanced topics) and co
 | 5 | Codeforces | [2277B](https://codeforces.com/contest/2277/problem/B) | Sequence Decreasing | Invariants, Greedy, Subarrays | $O(n)$ |
 
 
----
-
-### Setup & Local Testing
-Run solutions directly with standard Python 3:
-```bash
-python3 codeforces/0486_Calculating_Function.py
